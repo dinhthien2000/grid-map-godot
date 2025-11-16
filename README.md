@@ -1,6 +1,7 @@
 # grid-map-godot
 
-![](C:\Users\Admin\AppData\Roaming\marktext\images\2025-11-16-22-36-24-image.png)
+<img width="1917" height="961" alt="image" src="https://github.com/user-attachments/assets/c626723a-a40c-4d2c-aaaa-fada015c987b" />
+
 
 ## Icon License
 
