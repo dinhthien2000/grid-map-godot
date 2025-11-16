@@ -1,6 +1,6 @@
 # grid-map-godot
 
-link: [Grid Map](https://dinhthien2000.github.io/grid-map-godot/Grid-Map.html)
+link page: [Grid Map](https://dinhthien2000.github.io/grid-map-godot/Grid-Map.html)
 
 ![](E:\Godot\Project\Godot_v4.5\grid-map-v2\build\grid-map-godot\image-readme.png)
 
