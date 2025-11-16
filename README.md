@@ -1,7 +1,8 @@
 # grid-map-godot
 
-<img width="1917" height="961" alt="image" src="https://github.com/user-attachments/assets/c626723a-a40c-4d2c-aaaa-fada015c987b" />
+link: [Grid Map](https://dinhthien2000.github.io/grid-map-godot/Grid-Map.html)
 
+![](E:\Godot\Project\Godot_v4.5\grid-map-v2\build\grid-map-godot\image-readme.png)
 
 ## Icon License
 
